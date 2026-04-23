@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي روحي معاك
+> قلبي دايب في هواك
+> كل اللي حابه أنا وياك
+> طول الليالي بستناك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
